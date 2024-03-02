@@ -12,9 +12,9 @@
 - ⚠️ Warning: I am not responsible for what you do with this.
 
 - 🕸️ Proxy Format:
-- username:password@host:port (residental)
-- host:port (datacenter)
-- Proxyless (slow with ratelimits)
+- 🕸️ Proxyless (slow with ratelimits)
+- 🕸️ username:password@host:port (residental)
+- 🕸️ host:port (datacenter)
 
 # ⭐ Credits
 
